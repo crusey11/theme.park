@@ -49,7 +49,7 @@
         "alien": {
           "css": [
             "https://theme-park.dev/css/addons/unraid/login-page/alien/isolation.css?sha=75e3199d3233e2e0feb001db425b39f3",
-            "https://theme-park.dev/css/addons/unraid/login-page/alien/custom.css?sha=0370ea32d95c8a84914495813270657b",
+            "https://theme-park.dev/css/addons/unraid/login-page/alien/custom.css?sha=52d5134c2bf1c3a7983301eb35e195c7",
             "https://theme-park.dev/css/addons/unraid/login-page/alien/scanner.css?sha=ca02d6ab12c26ea115dd11a9e0558534",
             "https://theme-park.dev/css/addons/unraid/login-page/alien/isolation_video.css?sha=0403e2565a528489653f8f901ed5dc61",
             "https://theme-park.dev/css/addons/unraid/login-page/alien/hallway4.css?sha=7ea974528d00c066f57f615c24047f5e",
@@ -428,7 +428,7 @@
           "alien": {
             "css": [
               "https://theme-park.dev/css/addons/unraid/login-page/alien/isolation.css?sha=75e3199d3233e2e0feb001db425b39f3",
-              "https://theme-park.dev/css/addons/unraid/login-page/alien/custom.css?sha=0370ea32d95c8a84914495813270657b",
+              "https://theme-park.dev/css/addons/unraid/login-page/alien/custom.css?sha=52d5134c2bf1c3a7983301eb35e195c7",
               "https://theme-park.dev/css/addons/unraid/login-page/alien/scanner.css?sha=ca02d6ab12c26ea115dd11a9e0558534",
               "https://theme-park.dev/css/addons/unraid/login-page/alien/isolation_video.css?sha=0403e2565a528489653f8f901ed5dc61",
               "https://theme-park.dev/css/addons/unraid/login-page/alien/hallway4.css?sha=7ea974528d00c066f57f615c24047f5e",
