@@ -363,7 +363,7 @@
     },
     "qbittorrent": {
       "addons": {},
-      "base_css": "https://theme-park.dev/css/base/qbittorrent/qbittorrent-base.css?sha=11987f244ab5551dcb71293d3a2e8c3b"
+      "base_css": "https://theme-park.dev/css/base/qbittorrent/qbittorrent-base.css?sha=e27e3063128920efa03c9a3a1085dbd4"
     },
     "radarr": {
       "addons": {
@@ -471,7 +471,7 @@
     },
     "vuetorrent": {
       "addons": {},
-      "base_css": "https://theme-park.dev/css/base/vuetorrent/vuetorrent-base.css?sha=6eced6b20371aa55e1ee14c9fe55dac5"
+      "base_css": "https://theme-park.dev/css/base/vuetorrent/vuetorrent-base.css?sha=58dbb0ebfd82f1be0d6198bb35304cac"
     },
     "whisparr": {
       "addons": {
